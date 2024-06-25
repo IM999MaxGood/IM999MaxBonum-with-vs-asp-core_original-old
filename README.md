@@ -4,6 +4,9 @@
 
 IM999MaxBonum-with-vs-asp-core_original-old is a **OLD** source of project. It is a multi language cms write with ASP.Net core MVC ver 2.2.1.
 
+> [!TIP]
+> I'm sorry, It's not the best.
+
 >[!WARNING]
 >I tested it a little
 
